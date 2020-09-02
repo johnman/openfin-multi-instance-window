@@ -2,8 +2,8 @@ const initOpenFinParamListener = () => {
   const openMainWindow = () => {
     let winOption = {
       name: "child-" + Date.now(),
-      defaultWidth: 300,
-      defaultHeight: 300,
+      defaultWidth: 600,
+      defaultHeight: 600,
       url:
         "https://cdn.openfin.co/docs/javascript/stable/tutorial-Window.create.html",
       frame: true,

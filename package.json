@@ -1,7 +1,7 @@
 {
-  "name": "multi-instance-demo",
+  "name": "openfin-multi-instance-window",
   "version": "1.0.0",
-  "description": "A demo where launching the app when it is already launched opens a new window.",
+  "description": "An example of using the platform provider to launch an OpenFin window on launch and then launching multiple instances of that url if the app is re-launched",
   "main": "index.html",
   "scripts": {
     "start": "serve"

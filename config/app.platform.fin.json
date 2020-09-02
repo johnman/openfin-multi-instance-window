@@ -6,9 +6,9 @@
     "version": "stable"
   },
   "platform": {
-    "uuid": "demo-platform-app",
-    "applicationIcon": "https://2siz3.csb.app/favicon.ico",
-    "providerUrl": "https://2siz3.csb.app/provider-window.html",
+    "uuid": "demo-multi-instance-platform-app",
+    "applicationIcon": "https://d2k16.csb.app/favicon.ico",
+    "providerUrl": "https://d2k16.csb.app/provider-window.html",
     "autoShow": false
   },
   "snapshot": {
