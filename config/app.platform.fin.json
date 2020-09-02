@@ -1,0 +1,17 @@
+{
+  "devtools_port": 9090,
+  "licenseKey": "request-a-key",
+  "runtime": {
+    "arguments": "--v=1 --inspect",
+    "version": "stable"
+  },
+  "platform": {
+    "uuid": "demo-platform-app",
+    "applicationIcon": "https://2siz3.csb.app/favicon.ico",
+    "providerUrl": "https://2siz3.csb.app/provider-window.html",
+    "autoShow": false
+  },
+  "snapshot": {
+    "windows": []
+  }
+}
